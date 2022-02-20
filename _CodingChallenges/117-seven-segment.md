@@ -18,6 +18,11 @@ videos:
     video_id: "zp4BMR88260"
 
 contributions:
+  - title: "Counting Multiple Digits 7 Segment"
+    author:
+      name: "Neo Yang"
+      url: "hhttps://editor.p5js.org/yangmc/full/hhYOi0H1V"
+    source: "https://editor.p5js.org/yangmc/sketches/hhYOi0H1V"
   - title: "Multiple Digits 7 Segment Display"
     author:
       name: "suppergerrie2"
